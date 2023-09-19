@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/docs/',
   title: "PACTL DOCS",
   description: "pactl docs",
   themeConfig: {
@@ -12,6 +11,12 @@ export default defineConfig({
       { text: 'detail', link: '/query/waybill' }
     ],
     sidebar: [
+      {
+        text: 'Introduction',
+        items: [
+          { text: 'Getting Started', link: '/introduction/index' },
+        ]
+      },
       {
         text: 'PATCL综合查询',
         items: [
@@ -28,6 +33,7 @@ export default defineConfig({
       {
         text: '进港主动分拨',
         items: [
+          { text: '登录', link: '/allocate/login' },
           { text: '短驳交货管理', link: '/allocate/transaction' },
           { text: '货代收货管理', link: '/allocate/receive' },
           { text: '车辆绑定', link: '/allocate/carbind' },

@@ -8,11 +8,14 @@ hero:
   tagline: PACTL功能详细文档
   actions:
     - theme: brand
+      text: Get Started
+      link: /introduction/index
+    - theme: alt
       text: PACTL综合查询
       link: /query/waybill
     - theme: alt
       text: 进港主动分拨
-      link: /allocate/transaction
+      link: /allocate/index
 
 features:
   - title: Uniapp

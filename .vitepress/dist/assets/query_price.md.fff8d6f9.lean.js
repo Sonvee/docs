@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as p}from"./chunks/framework.19f61efe.js";const h=JSON.parse('{"title":"服务价格查询","description":"","frontmatter":{},"headers":[],"relativePath":"query/price.md","filePath":"query/price.md"}'),l={name:"query/price.md"},o=p("",3),e=[o];function t(c,r,E,y,i,u){return a(),n("div",null,e)}const F=s(l,[["render",t]]);export{h as __pageData,F as default};
