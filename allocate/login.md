@@ -1,5 +1,7 @@
 # 进港主动分拨
 
+## 接口
+
 登录
 
 ```javascript
@@ -15,7 +17,7 @@
 }
 ```
 
-获取新token
+获取新 token
 
 ```javascript
 {
@@ -41,3 +43,13 @@
     }
 }
 ```
+
+## 页面
+
+登录
+
+<img src="/public/allocate/login.png" width="300"/>
+
+主动分拨首页菜单
+
+<img src="/public/allocate/index.png" width="300"/>

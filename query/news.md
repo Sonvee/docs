@@ -1,6 +1,6 @@
 # 新闻查询
 
-接口
+## 接口
 
 ```javascript
 {
@@ -13,3 +13,13 @@
     }
 }
 ```
+
+## 页面
+
+新闻列表
+
+<img src="/public/query/news.png" width="300"/>
+
+新闻详情
+
+<img src="/public/query/news-detail.png" width="300"/>

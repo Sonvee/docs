@@ -1,5 +1,7 @@
 # 短驳交货管理
 
+## 接口
+
 车辆查询
 
 ```javascript
@@ -28,3 +30,9 @@
     }
 }
 ```
+
+## 页面
+
+根据车牌号查询
+
+<img src="/public/allocate/transaction.png" width="300"/>

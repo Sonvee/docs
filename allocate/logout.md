@@ -1,6 +1,6 @@
 # 退出登录
 
-退出登录
+## 接口
 
 ```javascript
 {
@@ -12,3 +12,7 @@
     }
 }
 ```
+
+## 页面
+
+<img src="/public/allocate/logout.png" width="300"/>

@@ -1,6 +1,6 @@
 # 服务价格查询
 
-接口
+##  接口
 
 ```javascript
 {
@@ -13,3 +13,13 @@
     }
 }
 ```
+
+## 页面
+
+服务价格列表
+
+<img src="/public/query/price.png" width="300"/>
+
+服务价格详情
+
+<img src="/public/query/price-detail.png" width="300"/>

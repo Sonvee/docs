@@ -1,5 +1,7 @@
 # 密码修改
 
+## 接口
+
 ```javascript
 {
   baseurl: "https://27.115.19.21:8022/airimp/index.php",
@@ -13,3 +15,7 @@
     }
 }
 ```
+
+## 页面
+
+<img src="/public/allocate/pwdchange.png" width="300"/>

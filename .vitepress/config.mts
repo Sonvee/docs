@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'home', link: '/' },
-      { text: 'detail', link: '/query/waybill' }
+      { text: 'detail', link: '/introduction/index' }
     ],
     sidebar: [
       {
@@ -20,6 +20,7 @@ export default defineConfig({
       {
         text: 'PATCL综合查询',
         items: [
+          { text: '综合查询首页', link: '/query/index' },
           { text: '运单查询', link: '/query/waybill' },
           { text: '电报查询', link: '/query/telegram' },
           { text: '陆运查询', link: '/query/transport' },

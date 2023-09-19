@@ -1,6 +1,6 @@
 # 电报查询
 
-接口
+## 接口
 
 ```javascript
 {
@@ -14,3 +14,9 @@
     }
 }
 ```
+
+## 页面
+
+查询
+
+<img src="/public/query/telegram.png" width="300"/>

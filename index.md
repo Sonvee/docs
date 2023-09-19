@@ -12,7 +12,7 @@ hero:
       link: /introduction/index
     - theme: alt
       text: PACTL综合查询
-      link: /query/waybill
+      link: /query/index
     - theme: alt
       text: 进港主动分拨
       link: /allocate/index

@@ -1,6 +1,8 @@
 # 货代收货管理
 
-单号查询接口
+## 接口
+
+单号查询
 
 ```javascript
 {
@@ -30,3 +32,21 @@
     }
 }
 ```
+
+## 页面
+
+根据总单号查询
+
+<img src="/public/allocate/receive.png" width="300"/>
+
+单号详情
+
+<img src="/public/allocate/receive-detail.png" width="300"/>
+
+异常申诉
+
+<img src="/public/allocate/receive-error.png" width="300"/>
+
+接受货物
+
+<img src="/public/allocate/receive-success.png" width="300"/>

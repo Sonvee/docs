@@ -1,6 +1,6 @@
 # 消息查询
 
-接口
+## 接口
 
 ```javascript
 {
@@ -13,3 +13,13 @@
     }
 }
 ```
+
+## 页面
+
+消息列表
+
+<img src="/public/query/message.png" width="300"/>
+
+消息详情
+
+<img src="/public/query/message-detail.png" width="300"/>
