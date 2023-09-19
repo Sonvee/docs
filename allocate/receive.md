@@ -50,3 +50,11 @@
 接受货物
 
 <img src="/public/allocate/receive-success.png" width="300"/>
+
+接受货物-单个收取
+
+<img src="/public/allocate/receive_01.gif" width="300"/>
+
+接受货物-多个收取
+
+<img src="/public/allocate/receive_02.gif" width="300"/>

@@ -46,7 +46,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'http://192.168.91.247/project/pactl-airimp' }
+      { icon: 'github', link: 'https://github.com/Sonweir/docs' },
+      { icon: 'github', link: 'http://192.168.91.247/project/pactl-airimp' },
     ]
   }
 })
