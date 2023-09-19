@@ -17,7 +17,7 @@
 
 # system ignore
 node_modules/
-# dist/
+dist/
 cache/
 
 # others
