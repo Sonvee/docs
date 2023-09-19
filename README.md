@@ -3,6 +3,7 @@
 ## 文档项目运行
 
 ```sh
+$ npm i
 $ npm run docs:dev
 ```
 
